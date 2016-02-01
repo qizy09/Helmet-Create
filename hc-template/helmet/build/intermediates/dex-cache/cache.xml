@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/hw4-helmet/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7038898093db58458765c575036f8a335b210a52">
+        <dex dex="/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/hw4-helmet/android/build/intermediates/pre-dexed/debug/core-1.0_23cd9c9d60b0f055465fc0949832b825a844cf66.jar" />
+    </item>
+
+</items>

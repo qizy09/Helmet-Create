@@ -1,0 +1,84 @@
+[
+    {
+        "outputFile": "/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/hw4-helmet/android/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/hw4-helmet/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/hw4-helmet/android/res/values/styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/miroslav/hc/android/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/miroslav/hc/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "/home/miroslav/hc/android/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 475
+                    }
+                }
+            }
+        ]
+    }
+]
