@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/helmet-create/android/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/helmet-create/android/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/hw4-helmet/android/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
         "source": "/Users/qi/Dropbox/2016_Winter/ece150-MOBILE SYS/HW4/hw4-helmet/android/res/mipmap-hdpi/ic_launcher.png"
     }

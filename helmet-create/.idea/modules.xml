@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android/android.iml" filepath="$PROJECT_DIR$/android/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hw4-helmet.iml" filepath="$PROJECT_DIR$/hw4-helmet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helmet-create.iml" filepath="$PROJECT_DIR$/helmet-create.iml" />
     </modules>
   </component>
 </project>

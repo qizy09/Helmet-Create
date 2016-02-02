@@ -58,7 +58,7 @@ public class Main extends ApplicationAdapter {
         camouflague = new Texture(Gdx.files.internal("data/camouflage.png"));
 //        getHelmetDetails().material.set(TextureAttribute.createDiffuse(logo));
 
-		// TODO: create a new perspective camera with a field-of-view of around 70, 
+		// TODO: create a new perspective camera with a field-of-view of around 70,
 		//  and the width and height found in the Gdx.graphics class
 		// set the position of the camera to (100, 100, 100)
 		// set the camera to look at the origin point (0, 0, 0)
