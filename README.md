@@ -14,6 +14,7 @@ In this app, based on the template provided by TAs, I implemented:
 
 
 I also have a video demo available on Youtube:
+
 [![Youtube](tmp.png)](https://youtu.be/cjiHjazwvWY)
 
 Any questions, feel free to let me know.
