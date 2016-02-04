@@ -13,6 +13,6 @@ In this app, based on the template provided by TAs, I implemented:
  * add background music to play for full Empire Strikes Back experience. When button is clicked odd times, the music pauses, when even time, the music continues.
 
 
-I also have a video demo available on [![Youtube](src/tmp.png)](https://youtu.be/cjiHjazwvWY)
+I also have a video demo available on [![Youtube](tmp.png)](https://youtu.be/cjiHjazwvWY)
 
 Any questions, feel free to let me know.
