@@ -1,4 +1,5 @@
 # Helmet-Create
+This is a backup repository for a previous Android homework project of the course ECE 150/251 (UCSB 2016 Winter).
 ------------------------
 ## ECE150 Assignment 4 -  Episode IV: First Order Helmet Creater
 In this project, we create an Android app with which the stormtroopers can customize their helmets to have the color or pattern of their liking. The helmet model is **given by the dark lord himself** , and consists of two parts: the helmet base and the details. We use the LibGDX library for both 2D and 3D graphics.
