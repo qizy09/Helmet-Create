@@ -17,4 +17,7 @@ I also have a video demo available on Youtube:
 
 [![Youtube](tmp.png)](https://youtu.be/cjiHjazwvWY)
 
-Any questions, feel free to let me know.
+# License
+
+    Copyright 2016.
+    For any questions, feel free to let me know.
